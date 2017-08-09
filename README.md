@@ -22,3 +22,5 @@
 * router.js: Define las rutas a las que responde la aplicación.
 * model/: En este folder se encuentran los modelos (o recursos) de la aplicación.
 * controller/: En este folder se definen las operaciones que se pueden realizar sobre los recursos.
+
+Para mayor referencia consulte la documentación que corresponda.
